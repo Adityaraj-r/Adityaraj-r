@@ -32,7 +32,7 @@ I enjoy solving **DSA problems**, designing **scalable architectures**, and buil
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" height="48" />
 </p>
 
 ### 🛠 Backend
@@ -42,12 +42,12 @@ I enjoy solving **DSA problems**, designing **scalable architectures**, and buil
 
 ### 🗄 Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" height="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" height="48" />
 </p>
 
 ### 🧠 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,c,cpp,python" height="48" />
+  <img src="https://skillicons.dev/icons?i=java,js,c,cpp" height="48" />
 </p>
 
 ---
