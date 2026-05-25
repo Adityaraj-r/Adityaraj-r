@@ -2,15 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:3B82F6&height=240&section=header&text=Aditya%20Raj&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
 </p>
 
-<h2 align="center">Full Stack Developer • MERN Stack • Problem Solver</h2>
+
 
 <p align="center">
   Building <b>scalable systems</b>, crafting <b>modern UIs</b>, and solving problems with <b>clean logic</b>.
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=720&lines=Full+Stack+MERN+Developer;DSA+%7C+Java+%7C+System+Design;Turning+Ideas+Into+Production-Ready+Apps" />
-</p>
+
 
 ---
 
