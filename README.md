@@ -23,7 +23,6 @@ I enjoy solving **DSA problems**, designing **scalable architectures**, and buil
 - 💡 Strong foundation in **DSA & Java**
 - 🚀 MERN Stack Developer (Frontend + Backend)
 - ⚙️ Backend-focused, UI-aware developer
-- 📚 Learning **System Design & scalable backend patterns**
 - 🧠 Believe in clean code, performance, and simplicity
 
 ---
@@ -47,7 +46,7 @@ I enjoy solving **DSA problems**, designing **scalable architectures**, and buil
 
 ### 🧠 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,c,cpp" height="48" />
+  <img src="https://skillicons.dev/icons?i=java,cpp" height="48" />
 </p>
 
 ---
