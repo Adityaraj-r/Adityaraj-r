@@ -51,43 +51,6 @@ I enjoy solving **DSA problems**, designing **scalable architectures**, and buil
 
 # 🚀 Featured Projects
 
-## 🌦️ ApexPlanet — Advanced Day/Night Weather App
-
-A **modern, responsive weather application** with real-time updates, AQI monitoring, auto day/night theme switching, interactive maps, and data visualizations—built for a **premium user experience**.
-
-### ✨ Highlights
-- 🌞 Auto **Day/Night Mode** (sun/moon based on system time)
-- 🗺 Interactive map with light/dark tiles (Leaflet.js)
-- 🌫 Real-time **AQI monitoring** with color grading
-- 🌡 Live weather data (temperature, wind, humidity, pressure)
-- 📅 7-day forecast with dynamic icons
-- ⏱ Hourly & weekly charts (Chart.js)
-- 📱 Fully responsive for all devices
-
-**Tech:** HTML • CSS • JavaScript • Open-Meteo APIs • Leaflet.js • Chart.js
-
----
-
-## ✅ ApexPlanet Pro — To-Do Suite
-
-A **professional multi-page productivity website** featuring a modern UI/UX, GSAP animations, dark/light themes, sidebar navigation, and smooth interactions.
-
-### 🚀 Features
-- 📝 **To-Do App**  
-  Add/edit/delete tasks, priority levels, filters, GSAP animations, LocalStorage
-- 📒 **Notes App**  
-  Auto-save notes with timestamps
-- 🛍 **Products Page**  
-  Search, filter, pricing & ratings UI
-- 🌐 **Landing Page**  
-  Hero section, CTAs, clean typography
-- 🎨 **UI/UX**  
-  Dark/Light mode, glassmorphism, responsive layout
-
-**Tech:** HTML • CSS • JavaScript • GSAP • LocalStorage
-
----
-
 ## 🌐 SyncSpace — Real-time Video Calling & Chat App
 
 A **full-scale real-time communication platform** for language exchange with chat, video calls, screen sharing, and customizable UI themes.
