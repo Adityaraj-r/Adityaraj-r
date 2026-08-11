@@ -3,7 +3,6 @@
 </p>
 
 
-
 <p align="center">
   Building <b>scalable systems</b>, crafting <b>modern UIs</b>, and solving problems with <b>clean logic</b>.
 </p>
