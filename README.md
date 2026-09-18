@@ -13,7 +13,7 @@
 
 # 🧑‍💻 About Me
 
-Hi, I’m **Aditya Raj**, a **3rd Year Computer Engineering Student** and **Full Stack Developer** passionate about building **real-world applications** with strong backend logic and polished UI/UX.
+I'm a 4th-year Computer Engineering student and Full-Stack Developer with hands-on industry experience building production-oriented web applications. I specialize in modern JavaScript/TypeScript ecosystems, backend development, REST APIs, databases, and AI-powered application development.
 
 I enjoy solving **DSA problems**, designing **scalable architectures**, and building **modern MERN stack projects**.
 
