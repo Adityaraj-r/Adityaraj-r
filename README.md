@@ -3,31 +3,26 @@
 </p>
 
 
-<p align="center">
-  Building <b>scalable systems</b>, crafting <b>modern UIs</b>, and solving problems with <b>clean logic</b>.
-</p>
+### Full-Stack Developer | Backend Engineering | AI/ML
 
-
+> ⚙️ Building scalable backend systems, full-stack applications, and AI-powered solutions.
 
 ---
 
-# 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **Final-Year Computer Engineering student** and **Full-Stack Developer** with hands-on internship experience in **backend development, REST APIs, databases, and React.js**. I enjoy building **scalable applications**, solving **DSA and System Design** problems, and exploring **AI-powered technologies**. Currently, I'm focused on growing as a **Software Engineer and Backend Developer**.
-
+I'm a **Final-Year Computer Engineering student** and **Full-Stack Developer** with hands-on internship experience in **backend development, REST APIs, databases, and React.js**. I enjoy building scalable applications, solving **DSA and System Design** problems, and exploring **AI-powered technologies**.
 
 ## 📌 Current Status
 
 - 💼 **Full Stack Developer Intern @ Indux Technology**
 - 🎓 **B.E. Computer Engineering | 2023–2027 | CGPA: 8.7/10**
-- ⚙️ **Building REST APIs & full-stack applications**
+- ⚙️ **Building REST APIs, backend services & full-stack applications**
 - 🗄️ **Node.js • Express.js • MongoDB • React.js**
 - 🧠 **Strengthening DSA, System Design & Backend Engineering**
 - 🤖 **Exploring Generative AI & AI-powered applications**
 - 🐳 **Learning Docker, Redis & Distributed Systems**
 - 🎯 **Open to Software Engineering & Backend opportunities**
-
----
 ## Internship Experience
 
 ### Full Stack Developer Intern — Indux Technology
@@ -45,25 +40,40 @@ I'm a **Final-Year Computer Engineering student** and **Full-Stack Developer** w
 
 # ⚙️ Tech Stack
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" height="48" />
-</p>
+## 🛠️ Tech Stack
 
-### 🛠 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="48" />
-</p>
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-### 🗄 Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" height="48" />
-</p>
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### 🧠 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp" height="48" />
-</p>
+**Backend & APIs**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**AI / ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-Audio_Processing-FF6F00?style=flat-square)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -129,14 +139,13 @@ A **full-scale real-time communication platform** for language exchange with cha
   *Oracle · 2026*
 # 🌐 Let’s Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-raj-725708325/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/Adityaraj-r">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+## 🤝 Let's Connect
+
+Interested in **backend development, open-source, and software engineering opportunities**? Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Raj-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aditya-raj-725708325)
+[![Email](https://img.shields.io/badge/Email-aadiraj267%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:aadiraj267@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Adityaraj--r-black?style=for-the-badge&logo=github)](https://github.com/Adityaraj-r)
 
 ---
 
