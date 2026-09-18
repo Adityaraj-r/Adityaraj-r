@@ -13,16 +13,35 @@
 
 # 🧑‍💻 About Me
 
-I'm a 4th-year Computer Engineering student and Full-Stack Developer with hands-on industry experience building production-oriented web applications. I specialize in modern JavaScript/TypeScript ecosystems, backend development, REST APIs, databases, and AI-powered application development.
+I'm a **Final-Year Computer Engineering student** and **Full-Stack Developer** with hands-on internship experience in **backend development, REST APIs, databases, and React.js**. I enjoy building **scalable applications**, solving **DSA and System Design** problems, and exploring **AI-powered technologies**. Currently, I'm focused on growing as a **Software Engineer and Backend Developer**.
 
-I enjoy solving **DSA problems**, designing **scalable architectures**, and building **modern MERN stack projects**.
 
-- 💡 Strong foundation in **DSA & Java**
-- 🚀 MERN Stack Developer (Frontend + Backend)
-- ⚙️ Backend-focused, UI-aware developer
-- 🧠 Believe in clean code, performance, and simplicity
+## 📌 Current Status
+
+- 💼 **Full Stack Developer Intern @ Indux Technology**
+- 🎓 **B.E. Computer Engineering | 2023–2027 | CGPA: 8.7/10**
+- ⚙️ **Building REST APIs & full-stack applications**
+- 🗄️ **Node.js • Express.js • MongoDB • React.js**
+- 🧠 **Strengthening DSA, System Design & Backend Engineering**
+- 🤖 **Exploring Generative AI & AI-powered applications**
+- 🐳 **Learning Docker, Redis & Distributed Systems**
+- 🎯 **Open to Software Engineering & Backend opportunities**
 
 ---
+## Internship Experience
+
+### Full Stack Developer Intern — Indux Technology
+`May 2026 – Present`
+
+- Engineered backend services and RESTful APIs using Node.js, Express.js, and MongoDB for enterprise HRMS modules.
+- Optimized API queries and database operations while resolving 30+ system and functional issues, improving application reliability and performance.
+- Developed reusable React.js components and integrated frontend workflows with REST APIs for enterprise HRMS functionality.
+
+### Full Stack Development Intern — Coding Savvy
+`Jan 2026 – Feb 2026`
+
+- Integrated 15+ secure RESTful APIs using Express.js and JWT authentication within an Agile software development workflow.
+- Built 10+ reusable React.js components and managed feature integration and deployment using Git and GitHub.
 
 # ⚙️ Tech Stack
 
@@ -75,17 +94,39 @@ A **full-scale real-time communication platform** for language exchange with cha
 - **Auth:** JWT  
 - **Deployment:** Render  
 
+### EchoGuard — AI-Powered Deepfake Audio Detection System
+ > 🛡️ AI-powered deepfake audio detection system using PyTorch, CNNs, MFCC, and Mel-Spectrograms to classify and score synthetic or cloned audio.
+**Tech Stack:** `Python` `PyTorch` `ResNet-18` `CNN` `Librosa` `MFCC` `Mel-Spectrograms` `FastAPI`
+
+- 🔍 Built an audio classification pipeline to detect synthetic and cloned audio.
+- 🧠 Trained a **ResNet-18 CNN** model for audio classification and scoring.
+- 🎵 Extracted **MFCC and Mel-Spectrogram** features for deep learning-based audio analysis.
+- ⚡ Developed **FastAPI REST APIs** for audio processing and real-time inference.
+- 🔗 Integrated preprocessing, feature extraction, model inference, and scoring into an end-to-end pipeline.
 
 
-# 🎯 Currently Focusing On
 
--Building scalable full-stack applications with Next.js, Node.js and TypeScript
--Developing AI-powered applications using LLMs, RAG and Generative AI
--Strengthening Data Structures & Algorithms with Java
--Learning System Design and scalable backend architecture
--Building production-oriented features during my internship at Indux Technology
----
+# 🌱 Currently Learning
 
+- 🏗️ System Design & Scalable Architecture
+- ⚙️ Advanced Backend Development
+- ⚡ Redis & Caching
+- 📨 Kafka & Distributed Systems
+- 🐳 Docker & CI/CD
+- ☁️ Cloud Deployment
+- 🤖 Generative AI, RAG & AI Agents
+- 🗄️ Database Optimization
+
+## 🏆 Certifications
+
+- 🏆 **NPTEL Elite — Introduction to Machine Learning**  
+  *IIT Madras · Top 1% · 2026*
+
+- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+  *Microsoft*
+
+- 🤖 **Oracle Cloud Infrastructure Agentic AI Foundations Associate**  
+  *Oracle · 2026*
 # 🌐 Let’s Connect
 
 <p align="center">
