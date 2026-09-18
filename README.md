@@ -79,12 +79,11 @@ A **full-scale real-time communication platform** for language exchange with cha
 
 # 🎯 Currently Focusing On
 
-- Advanced **DSA & problem solving**
-- **Java & backend development**
-- Building **scalable MERN applications**
-- **System Design** fundamentals
-- Performance optimization & clean architecture
-
+-Building scalable full-stack applications with Next.js, Node.js and TypeScript
+-Developing AI-powered applications using LLMs, RAG and Generative AI
+-Strengthening Data Structures & Algorithms with Java
+-Learning System Design and scalable backend architecture
+-Building production-oriented features during my internship at Indux Technology
 ---
 
 # 🌐 Let’s Connect
